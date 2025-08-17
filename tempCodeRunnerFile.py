@@ -1,0 +1,1 @@
+'average_turnaround_time': sum(p['turnaround'] for p in result['result']) / len(result['result']),
